@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ad45d128-1422-4000-afeb-c630e02488fd)<h1 align="center">Hi 👋, I'm Md Rezaul</h1>
+ I'm Md Rezaul</h1>
 <h3 align="center">I'm an engineering student at IIITM Gwalior, passionate about Android development, full-stack web development, and competitive programming. I love building modern, scalable apps and contributing to open-source projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezaul-web" alt="rezaul-web" /></a> </p>
