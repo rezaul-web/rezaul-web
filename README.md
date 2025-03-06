@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on **Android Development**
 - 🌱 I’m currently learning **Compose Multiplatform**
 - 💬 Ask me about **Jetpack Compose, Kotlin, and Backend Development**
-- 📫 How to reach me: [Email](mailto:your-email@gmail.com)
+- 📫 How to reach me: [Email](mailto:rmdrezaul75@gmail.com)
+
 
 
 ## 🌐 Connect with me:
